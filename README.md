@@ -1,4 +1,4 @@
-# **CP-Problems-Solutions Repo 2**
+# **CP-Problems-Solutions Repository 2**
 ## _This repository contains the code for the problems I solved on the following platforms_
  <br> **1. Codeforces** <br>
 **2. Codechef** <br>
